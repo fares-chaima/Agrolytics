@@ -27,7 +27,7 @@ Agrolytics vise à moderniser l’agriculture en fournissant une plateforme comp
 ## Aperçu de l'application
 
 ### Logo
-<img src="images/photo_5773924188023802003_y.jpg" alt="Logo" width="400"/>
+<img src="images/photo_5773924188023802003_y.jpg" alt="Logo" width="200"/>
 
 ### Tableau de bord
 <img src="images/photo_5773924188023802004_y.jpg" alt="Dashboard" width="400"/>
