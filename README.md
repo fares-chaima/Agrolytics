@@ -30,22 +30,22 @@ Agrolytics vise à moderniser l’agriculture en fournissant une plateforme comp
 <img src="images/photo_5773924188023802003_y.jpg" alt="Logo" width="200"/>
 
 ### Tableau de bord
-<img src="images/photo_5773924188023802004_y.jpg" alt="Dashboard" width="400"/>
+<img src="images/photo_5773924188023802004_y.jpg" alt="Dashboard" width="200"/>
 
 ### Recommandation de cultures
-<img src="images/photo_5773924188023802005_y.jpg" alt="Recommandation" width="400"/>
+<img src="images/photo_5773924188023802005_y.jpg" alt="Recommandation" width="200"/>
 
 ### Analyse du marché
-<img src="images/photo_5773924188023801999_y.jpg" alt="Marché" width="400"/>
+<img src="images/photo_5773924188023801999_y.jpg" alt="Marché" width="200"/>
 
 ### Estimation de la productivité
-<img src="images/photo_5773924188023801995_y.jpg" alt="Productivité 1" width="400"/>
-<img src="images/photo_5773924188023801996_y.jpg" alt="Productivité 2" width="400"/>
+<img src="images/photo_5773924188023801995_y.jpg" alt="Productivité 1" width="200"/>
+<img src="images/photo_5773924188023801996_y.jpg" alt="Productivité 2" width="200"/>
 
 ### Indicateurs agricoles
-<img src="images/photo_5773924188023802001_y.jpg" alt="Indicateur 1" width="400"/>
-<img src="images/photo_5773924188023802000_y.jpg" alt="Indicateur 2" width="400"/>
+<img src="images/photo_5773924188023802001_y.jpg" alt="Indicateur 1" width="200"/>
+<img src="images/photo_5773924188023802000_y.jpg" alt="Indicateur 2" width="200"/>
 
 ### Valeurs IoT
-<img src="images/photo_5773924188023801997_y.jpg" alt="IoT 1" width="400"/>
-<img src="images/photo_5773924188023802002_y.jpg" alt="IoT 2" width="400"/>
+<img src="images/photo_5773924188023801997_y.jpg" alt="IoT 1" width="200"/>
+<img src="images/photo_5773924188023802002_y.jpg" alt="IoT 2" width="200"/>
